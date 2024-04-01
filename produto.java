@@ -12,4 +12,8 @@ public produto {
 	   this.name = name;
 	}
 
+	public int getPreco() {
+	    return this.preco;
+	}
+
 }
